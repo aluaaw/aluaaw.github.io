@@ -1,7 +1,7 @@
 /* TEAM */
 Developer & Designer: Josh Gerdes
 Twitter: @joshgerdes
-Site: http://joshgerdes.com
+Site: https://aluaaw.github.io
 Location: Minneapolis, MN, USA
 						
 /* THANKS */
